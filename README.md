@@ -1,5 +1,5 @@
 # mycode
-Tracking my code Python Class 27 Sept to 1 Oct
+Tracking my code Python Class 27 Sept to 1 Oct and learning to version control projects with git`
 # mycode (Project Title)
 
 This is to have a place to store code for the class
